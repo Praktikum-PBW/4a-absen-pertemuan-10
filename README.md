@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Jovanka Sandra Nathalie Silalahi - 2010631170133
 - [Alifa Maha Rizka] - [2010631170047]
 - [Alvi Yuniar] - [2010631170050]
 - [Andriani Nurian] - [2010631170002]
