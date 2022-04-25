@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Dede Fitriyani] - [20106311700007]
 - [Adrian Aufarrizqi] - [2010631170042]
 - [Chintya Ana Tasya] - [2010631170005]
 - [Altolyto Sitanggang] - [2010631170049]
