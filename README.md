@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Adi Sunandar] - [2010631170041]
 - [Alif Karimullah] - [2010631170046]
 - [Afifah Nur Sallamah] - [2010631170001]
 - [anisah] - [2010631170053]
