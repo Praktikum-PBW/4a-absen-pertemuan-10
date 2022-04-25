@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Chintya Ana Tasya] - [2010631170005]
 - [Altolyto Sitanggang] - [2010631170049]
 - [Adrian Wibisono] - [2010631170043]
 - [Anisa Fitrianida Lutfiajati Pradhyani] - [2010631170003]
