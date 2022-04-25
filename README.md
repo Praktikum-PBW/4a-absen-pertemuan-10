@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Adrian Wibisono] - [2010631170043]
 - [Anisa Fitrianida Lutfiajati Pradhyani] - [2010631170003]
 - [Asyifa Maulana] - [2010631170004]
 - [Alfian Vito Anggoro] - [2010631170044]
