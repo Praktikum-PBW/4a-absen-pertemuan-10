@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alvi Yuniar] - [2010631170050]
 - [Andriani Nurian] - [2010631170002]
 - [Ali Dongan Harahap] - [2010631170045]
 - [Annabella Dian Dameria Sinambela] - [2010631170054]
